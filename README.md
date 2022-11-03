@@ -1,6 +1,6 @@
 # <p align="center">androidBmi，以java所撰寫的android BMI計算機</p>
 - 掌握能力
-  - intend
+  - intent
   - switch應用
   - 熟悉單一功能原則，主程式控制流程，其餘部份以各功能函式包裹
 ## 主畫面，可供使用者輸入姓名、年齡、身高、體重
